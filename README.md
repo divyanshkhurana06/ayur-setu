@@ -1,4 +1,4 @@
-# <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/734c306d-3364-4826-b7a8-54ef9eb13dfe" />
+# <img width="102" height="102" alt="image" src="https://github.com/user-attachments/assets/734c306d-3364-4826-b7a8-54ef9eb13dfe" />
 Ayur Setu Portal
 
 A React-based web application for blockchain-powered botanical traceability of Ayurvedic herbs.
